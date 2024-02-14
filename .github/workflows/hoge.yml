@@ -17,7 +17,7 @@ jobs:
         node-version: [14.x, 16.x, 19.x, 20.x]
 
     env:
-      SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
+      SUPER_SECRET: ${{ secrets.SUPER_SECRET_KEY }}
 
     steps:
       - name: Checkout code #Name of the step (optional)
