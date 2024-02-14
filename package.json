@@ -1,0 +1,15 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "github actions demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --setupFiles dotenv/config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
