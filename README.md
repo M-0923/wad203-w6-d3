@@ -78,3 +78,17 @@ sequenceDiagram
     Workflow->>Runner: Each Job is associated with a runner
     Note right of Runner:Runner 2: Runs the step in sequence<br>#nbsp;#nbsp;Run Step 1...<br>#nbsp;#nbsp;Run Step 2...<br>#nbsp;#nbsp;Run Step 3...
 ```
+
+## Setup Environment Variables
+
+You can view this [link](https://vercel.com/guides/how-can-i-use-github-actions-with-vercel) to learn how to setup environment variables in Github Actions.
+
+And have a look at these screenshots:
+
+![image](public/Code%20security%20&%20analysis%202024-02-14%2012-10-13.png)
+![image](public/Code%20security%20&%20analysis%202024-02-14%2012-10-35.png)
+![image](public/Actions%20secrets%20·%20M-0923:wad203-w6-d3%202024-02-14%2012-10-59.png)
+
+## Documentation
+
+You can check the [documentation](https://docs.github.com/en/actions/reference/events-that-trigger-workflows) for more **events**.
